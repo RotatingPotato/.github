@@ -1,8 +1,5 @@
 <h1 align="center">歡迎來到旋轉馬鈴薯</h1>
 <h3 align="center">我們是【國立臺中科技大學智慧生產工程系】的一個開發組織。</p>  
-<p align="center">
-  <img src="https://truth.bahamut.com.tw/s01/201611/30db43a49228401e42ec7ec69f5ed2a0.PNG" alt="馬鈴薯">
-</p>
 
 ### 組織成員：
 + [張健勳](https://github.com/KageRyo/)
